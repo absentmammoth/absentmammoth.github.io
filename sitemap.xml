@@ -37,15 +37,19 @@
   </url>
   
   <url>
-    <loc>/archive/march-2020/</loc>
+    <loc>/storage/march-2020/</loc>
   </url>
   
   <url>
-    <loc>/archive/</loc>
+    <loc>/storage/_archive/</loc>
   </url>
   
   <url>
     <loc>/series/</loc>
+  </url>
+  
+  <url>
+    <loc>/storage/</loc>
   </url>
   
   <url>
