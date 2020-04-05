@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/v4-shims.css">
 		<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
-		<link href='https://fonts.googleapis.com/css?family=Fira+Code' rel='stylesheet' type='text/css'>
+		<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700;1,900&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;600;700;900&display=swap" rel="stylesheet">
 		
@@ -89,17 +89,29 @@
     </h2>
         <ul>
 <li>Hank Ewbank, for the h-card display picture and favicon, as well as for showing me...</li>
-<li>Matthew Butterick's <a href="https://www.practicaltypography.com">practicaltypograhy.com</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+<li>Matthew Butterick's <a href="https://www.practicaltypography.com">practicaltypography.com</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
 <li>⌃ click &quot;Inspect Element&quot;</li>
-<li>The <a href="https://gohugo.io/documentation/">Hugo docs</a></li>
-<li>Countless search results that led to various, occasionally contradictory, guides and examples that sometimes found their way into this site. Thank you random guys on StackExchange and Medium. Many of you don't seem to understand flex containers and confused me</li>
-<li><a href="https://www.indieweb.org">IndieWeb.org</a>, which contains a significant amount of helpful information re: building your own website beyond just the core IndieWeb standards</li>
+<li>The <a href="https://gohugo.io/documentation/">Hugo docs</a> (for the most part)</li>
+<li>Countless search results that led to various, occasionally contradictory, guides and examples that sometimes found their way into this site. Thank you, random guys on StackExchange and Medium. Some of you were helpful. Others of you could learn from some of you</li>
+<li><a href="https://www.indieweb.org">IndieWeb.org</a>, which contains a significant amount of helpful information re: building your own website</li>
+<li>The Wired article <a href="https://www.wired.com/2016/10/how-the-web-became-unreadable/">How the Web Became Unreadable</a>, which explains a misunderstanding surrounding contrast; the shift away from high contrast sites has caused developers to use harder to read font colors (e.g. grays in place of solid black<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>) instead of dampening the harshness of bright white backgrounds<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></li>
+<li>Markdown</li>
+<li>Github (problematic)</li>
+<li><a href="https://rscss.io">RSCSS</a></li>
+<li>The Boris album art below. I had played around with different purples and softer blacks until I saw it and all was clear to me. I didn't think I could get away with my <code>&lt;a&gt;</code> purple being quite that dark and also keep it from blending in with the default font color, but I did use a color picker and then fiddle with the hsl a bit to get it light enough. The art is by <a href="https://mamisaitou.com">Mami Saitou</a>
+<img src="/img/IMG_0072.jpeg" alt=""></li>
 </ul>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
-<p>This site is exactly the kind of thing that I love -- clear, opinionated, and it explains the underlying theory and reasoning behind the topic. While I am an absolute amateur, or less than, it always helps me to have a resource like this to turn to. Even if it's completely wrong, it is at least complete! <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>This site is exactly the kind of thing that I love -- clear, opinionated, and it explains the underlying theory and reasoning behind what he is advocating. While (because?) I am an absolute amateur, or less than, it helps me to have a resource like this to turn to. Even if it's completely wrong, it is at least complete! Worth the $9. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>These grays trade a problem with high contrast for one of not enough contrast. What seems to be more beneficial to readers is a non-white background, or a dimmer white, which I have experimented with on this site. The font is still a dark, DARK, purple (<code>$default-color: hsl(266, 1%, 29%);</code>), and the background barely indistguishable from white. But! I think that the soft purple and black makes the barely not-white seem less harsh. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>To quote from the article: 'To translate contrast, it uses a numerical model. If the text and background of a website are the same color, the ratio is 1:1. For black text on white background (or vice versa), the ratio is 21:1. The Initiative set 4.5:1 as the minimum ratio for clear type, while recommending a contrast of at least 7:1, to aid readers with impaired vision. The recommendation was designed as a suggested minimum contrast to designate the boundaries of legibility. Still, designers tend to treat it as as a starting point.' This is in contrast (sorry) to Butterick's approach: he says the only way to really design anything is to use your eyes and make tiny adjustments until something looks right. He may be wrong, but it makes sense to me. <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>
