@@ -20,6 +20,7 @@
 - [ ] Fix wrapped titles on longer post titles
 - [x] Fix tags duplicating 'tags:' for each tag
 - [ ] Create some space between post titles and body text for the sake of the tags section (summary scss, posts scss)
+- [ ] Hide tags section if none on post
 
 #### Consider:
 * Change small-caps weight to 500
