@@ -26,4 +26,5 @@
 
 #### Consider:
 * Add 'last edited' to post meta info (any significance of just a date (implies 'posted on') vs. 'posted on' vs. 'last edited -- the permanence of the post, in other words)
+* Change 'media list' from monthly archive to endless scroll link page with each link's posted date
 * Left justify post titles
