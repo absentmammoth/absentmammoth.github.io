@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>now on wooly mammoth&#39;s mighty absence</title>
+    <link>/tags/now/</link>
+    <description>Recent content in now on wooly mammoth&#39;s mighty absence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Feb 2020 20:13:24 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/now/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>/now</title>
+      <link>/now/</link>
+      <pubDate>Mon, 24 Feb 2020 20:13:24 -0700</pubDate>
+      
+      <guid>/now/</guid>
+      <description>a /now page is a bit different than an &#39;about&#39; page. it&#39;s explained in more detail on nownownow, but the basic idea is to just include a little about what is going on in a person&#39;s life right Now -- like you&#39;d say if you were catching up with an old friend after a long time apart.
+so, for me -- february 24th, 2020:
+i&#39;m (almost) 30 and currently living in colorado springs, colorado with my wife and dog.</description>
+    </item>
+    
+  </channel>
+</rss>

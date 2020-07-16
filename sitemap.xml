@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/housekeeping/</loc>
+    <lastmod>2020-07-15T22:11:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-07-15T22:11:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2020/07/15/site-changes-updates/</loc>
+    <lastmod>2020-07-15T22:11:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-15T21:50:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-15T21:50:51-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/fog-series/</loc>
     <lastmod>2020-06-08T23:16:00-06:00</lastmod>
   </url>
@@ -13,22 +38,7 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-06-08T23:16:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-08T23:16:00-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/video-games/</loc>
-    <lastmod>2020-06-08T23:16:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-06-08T23:16:00-06:00</lastmod>
   </url>
   
@@ -49,12 +59,17 @@
   
   <url>
     <loc>/link-list/</loc>
-    <lastmod>2020-03-20T23:03:24-07:00</lastmod>
+    <lastmod>2020-07-15T21:44:24-07:00</lastmod>
   </url>
   
   <url>
     <loc>/now/</loc>
-    <lastmod>2020-02-24T20:13:24-07:00</lastmod>
+    <lastmod>2020-07-15T21:50:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/now/</loc>
+    <lastmod>2020-07-15T21:50:51-07:00</lastmod>
   </url>
   
   <url>
