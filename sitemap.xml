@@ -2,8 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/</loc>
+    <loc>/posts/2021/01/16/no-justice-no-joy/</loc>
+    <lastmod>2021-01-16T22:07:10-07:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-01-16T22:07:10-07:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-01-16T22:07:10-07:00</lastmod>
+  </url><url>
+    <loc>/posts/2020/12/31/goods-2020/</loc>
+    <lastmod>2020-12-31T23:27:05-07:00</lastmod>
+  </url><url>
+    <loc>/tags/lists/</loc>
+    <lastmod>2020-12-31T23:27:05-07:00</lastmod>
+  </url><url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2020-12-31T23:27:05-07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-31T23:27:05-07:00</lastmod>
+  </url><url>
+    <loc>/tags/fog-series/</loc>
+    <lastmod>2020-11-09T23:31:00-06:00</lastmod>
+  </url><url>
+    <loc>/tags/housekeeping/</loc>
+    <lastmod>2020-11-09T23:31:00-06:00</lastmod>
+  </url><url>
+    <loc>/posts/2020/11/06/how-to-see-through-fog-a-project/</loc>
+    <lastmod>2020-11-09T23:31:00-06:00</lastmod>
+  </url><url>
+    <loc>/posts/2020/08/27/self-deprecation/</loc>
+    <lastmod>2020-08-27T22:52:30-06:00</lastmod>
+  </url><url>
+    <loc>/tags/music/</loc>
+    <lastmod>2020-07-16T22:27:00-06:00</lastmod>
+  </url><url>
+    <loc>/tags/the-vault/</loc>
+    <lastmod>2020-07-16T22:27:00-06:00</lastmod>
+  </url><url>
+    <loc>/posts/2020/07/16/yo-la-tengo-painful/</loc>
+    <lastmod>2020-07-16T22:27:00-06:00</lastmod>
+  </url><url>
+    <loc>/posts/2020/07/15/site-changes-updates/</loc>
+    <lastmod>2020-07-15T22:11:00-06:00</lastmod>
+  </url><url>
+    <loc>/posts/2020/06/08/how-to-see-through-fog-persona-5-royal/</loc>
+    <lastmod>2020-06-08T23:16:00-06:00</lastmod>
+  </url><url>
+    <loc>/tags/video-games/</loc>
+    <lastmod>2020-06-08T23:16:00-06:00</lastmod>
+  </url><url>
+    <loc>/posts/2020/04/26/how-to-see-through-fog-hollywood-handbook/</loc>
+    <lastmod>2020-04-26T00:30:00-06:00</lastmod>
+  </url><url>
+    <loc>/tags/podcasts/</loc>
+    <lastmod>2020-04-26T00:30:00-06:00</lastmod>
+  </url><url>
+    <loc>/additional-thanks-to/</loc>
+    <lastmod>2020-03-20T23:03:24-07:00</lastmod>
+  </url><url>
+    <loc>/link-list/</loc>
+    <lastmod>2020-11-10T08:42:24-07:00</lastmod>
+  </url><url>
+    <loc>/now/</loc>
+    <lastmod>2020-07-15T21:50:51-07:00</lastmod>
+  </url><url>
+    <loc>/tags/now/</loc>
+    <lastmod>2020-07-15T21:50:51-07:00</lastmod>
   </url>
 </urlset>
